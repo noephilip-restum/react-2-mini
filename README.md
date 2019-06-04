@@ -5,9 +5,7 @@ elements on the front-end. We will also create a switch that can enable and disa
 change the theme of the paragraph. In the process of creating this project, we will cover how to use
 `this`, `bind`, `state`, and `props`.
 
-# Live Example
-
-**TODO: add live example**
+## Live Example: [click here](https://boomcamp.github.io/react-2-mini/)
 
 ## Setup
 
